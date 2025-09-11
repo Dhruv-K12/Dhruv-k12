@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [Aura Beats](https://github.com/Dhruv-K12/Trilio)
 
 - 🌱 I’m currently learning **expo-notifications**
+- ⭐ [AudioBeats 🎶](https://github.com/username/audiobeats)  
+  One of my favorite projects – a full-featured music app built with React Native, focusing on smooth UI/UX and performance optimization.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhruv-K12](https://github.com/Dhruv-K12)
 
